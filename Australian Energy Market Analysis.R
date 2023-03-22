@@ -1,8 +1,7 @@
 # OUTLINE OF ANALYSIS -----------------------------------------------------
 
-# The below analysis has been conducted on a data set of electricity demand and
-# prices for five Australian states (NSW, QLD, SA, VIC & TAS) in 2020. There will
-# be no interpretation or discussions about the analysis produced. There are four
+# This analysis has been conducted on a data set of electricity demand and
+# prices for five Australian states (NSW, QLD, SA, VIC & TAS) in 2020. There are four
 # distinct sections of the analysis below, the first looks at boxplots to display 
 # total demand and demand per capita distributions for each state. The second is 
 # a line graph tracking total demand and demand per capita for each state over the 
@@ -11,8 +10,7 @@
 # data). The final section is a line graph of the hourly demand per capita of each 
 # state. Following all this, numerical summaries for the boxplots and scatterplots
 # have also been provided in the form of a five number summary and correlation
-# analysis. Numerical summaries for the line graphs have not been provided as
-# there was no additional information to show outside of what was on the graphs.
+# analysis.
 
 # LOAD LIBRARIES -----------------------------------------------------
 
