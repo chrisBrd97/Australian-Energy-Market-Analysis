@@ -9,3 +9,7 @@ data). The final section is a line graph of the hourly demand per capita of each
 state. Following all this, numerical summaries for the boxplots and scatterplots
 have also been provided in the form of a five number summary and correlation
 analysis.
+
+The data used for this analysis is found in the zip folder labeled 'Data Files'.
+
+Plots for this code are found in the 'Output' folder.
